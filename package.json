@@ -1,0 +1,26 @@
+{
+  "name": "code-similarity",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "bin": {
+    "sim": "bin/cli.js"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzilong/code-similarity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengzilong/code-similarity/issues"
+  },
+  "homepage": "https://github.com/fengzilong/code-similarity#readme",
+  "dependencies": {
+    "@biu/simhash": "^0.1.1",
+    "code-signature": "^0.1.4"
+  }
+}
