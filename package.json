@@ -1,13 +1,12 @@
 {
   "name": "code-similarity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "lib/index.js",
   "bin": {
     "sim": "bin/cli.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fengzilong/code-similarity.git"
