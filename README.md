@@ -1,3 +1,3 @@
 # code-similarity
 
-Compute similarity score between javascript codes
+Compute similarity score between codes
