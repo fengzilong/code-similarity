@@ -20,6 +20,7 @@
   "homepage": "https://github.com/fengzilong/code-similarity#readme",
   "dependencies": {
     "@biu/simhash": "^0.1.1",
-    "code-signature": "^0.1.4"
+    "code-signature": "^0.1.4",
+    "fast-memoize": "^2.5.2"
   }
 }
